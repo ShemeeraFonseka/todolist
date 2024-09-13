@@ -62,18 +62,6 @@ To set up this project locally, follow these steps:
 4. Edit a task by clicking the edit icon next to the task.
 5. Delete a task by clicking the trash icon next to the task.
 
-## Screenshots
-
-Here are some screenshots of the To-Do List application:
-
-- **Desktop View**
-  
-  _Add a screenshot link or image here_
-
-- **Mobile View**
-  
-  _Add a screenshot link or image here_
-
 ## Contributing
 
 If you wish to contribute to this project, feel free to fork the repository and submit a pull request. All contributions are welcome!
@@ -103,7 +91,3 @@ If you wish to contribute to this project, feel free to fork the repository and 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Let me know if you'd like to make any adjustments!
